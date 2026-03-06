@@ -1,0 +1,20 @@
+body{
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+color: aqua;
+text-align: justify;
+font-size: 20px;
+}
+
+h2{
+    color: darkmagenta;
+    text-align: center;
+
+}
